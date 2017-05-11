@@ -335,6 +335,7 @@
             "mining": 6
         },
         "restrictions": {
+            "level": 20,
             "class": "📦Добытчик"
         },
         "recipeId": 132
