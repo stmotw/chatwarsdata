@@ -5,14 +5,8 @@
         "type": "resource",
         "tier": 1,
         "ingredients": [
-            {
-                "id": 107,
-                "count": 3
-            },
-            {
-                "id": 108,
-                "count": 3
-            }
+            { "id": 107, "count": 3 },
+            { "id": 108, "count": 3 }
         ],
         "status": "confirmed"
     },
@@ -22,10 +16,7 @@
         "type": "resource",
         "tier": 1,
         "ingredients": [
-            {
-                "id": 103,
-                "count": 3
-            }
+            { "id": 103, "count": 3 }
         ],
         "status": "confirmed"
     },
@@ -35,14 +26,8 @@
         "type": "resource",
         "tier": 1,
         "ingredients": [
-            {
-                "id": 105,
-                "count": 2
-            },
-            {
-                "id": 106,
-                "count": 2
-            }
+            { "id": 105, "count": 2 },
+            { "id": 106, "count": 2 }
         ],
         "status": "confirmed"
     },
@@ -52,10 +37,7 @@
         "type": "resource",
         "tier": 1,
         "ingredients": [
-            {
-                "id": 104,
-                "count": 5
-            }
+            { "id": 104, "count": 5 }
         ],
         "status": "confirmed"
     },
@@ -65,10 +47,7 @@
         "type": "resource",
         "tier": 1,
         "ingredients": [
-            {
-                "id": 102,
-                "count": 4
-            }
+            { "id": 102, "count": 4 }
         ],
         "status": "confirmed"
     },
@@ -78,18 +57,9 @@
         "type": "resource",
         "tier": 1,
         "ingredients": [
-            {
-                "id": 107,
-                "count": 2
-            },
-            {
-                "id": 113,
-                "count": 1
-            },
-            {
-                "id": 121,
-                "count": 2
-            }
+            { "id": 107, "count": 2 },
+            { "id": 113, "count": 1 },
+            { "id": 121, "count": 2 }
         ],
         "status": "confirmed"
     },
@@ -99,18 +69,9 @@
         "type": "resource",
         "tier": 2,
         "ingredients": [
-            {
-                "id": 110,
-                "count": 1
-            },
-            {
-                "id": 119,
-                "count": 1
-            },
-            {
-                "id": 124,
-                "count": 1
-            }
+            { "id": 110, "count": 1 },
+            { "id": 119, "count": 1 },
+            { "id": 124, "count": 1 }
         ],
         "status": "confirmed"
     },
@@ -120,18 +81,9 @@
         "type": "resource",
         "tier": 1,
         "ingredients": [
-            {
-                "id": 102,
-                "count": 6
-            },
-            {
-                "id": 107,
-                "count": 6
-            },
-            {
-                "id": 108,
-                "count": 6
-            }
+            { "id": 102, "count": 6 },
+            { "id": 107, "count": 6 },
+            { "id": 108, "count": 6 }
         ],
         "status": "confirmed"
     },
@@ -141,18 +93,9 @@
         "type": "resource",
         "tier": 1,
         "ingredients": [
-            {
-                "id": 107,
-                "count": 3
-            },
-            {
-                "id": 108,
-                "count": 3
-            },
-            {
-                "id": 122,
-                "count": 3
-            }
+            { "id": 107, "count": 3 },
+            { "id": 108, "count": 3 },
+            { "id": 122, "count": 3 }
         ],
         "status": "confirmed"
     },
@@ -162,14 +105,8 @@
         "type": "resource",
         "tier": 1,
         "ingredients": [
-            {
-                "id": 101,
-                "count": 3
-            },
-            {
-                "id": 122,
-                "count": 3
-            }
+            { "id": 101, "count": 3 },
+            { "id": 122, "count": 3 }
         ],
         "status": "confirmed"
     },
@@ -179,14 +116,8 @@
         "type": "resource",
         "tier": 1,
         "ingredients": [
-            {
-                "id": 101,
-                "count": 10
-            },
-            {
-                "id": 119,
-                "count": 1
-            }
+            { "id": 101, "count": 10 },
+            { "id": 119, "count": 1 }
         ],
         "status": "confirmed"
     },
@@ -196,14 +127,8 @@
         "type": "resource",
         "tier": 2,
         "ingredients": [
-            {
-                "id": 110,
-                "count": 6
-            },
-            {
-                "id": 129,
-                "count": 9
-            }
+            { "id": 110, "count": 6 },
+            { "id": 129, "count": 9 }
         ],
         "status": "confirmed"
     },
@@ -213,18 +138,9 @@
         "type": "resource",
         "tier": 2,
         "ingredients": [
-            {
-                "id": 105,
-                "count": 3
-            },
-            {
-                "id": 120,
-                "count": 3
-            },
-            {
-                "id": 129,
-                "count": 3
-            }
+            { "id": 105, "count": 3 },
+            { "id": 120, "count": 3 },
+            { "id": 129, "count": 3 }
         ],
         "status": "confirmed"
     },
@@ -234,22 +150,10 @@
         "type": "item",
         "tier": 3,
         "ingredients": [
-            {
-                "id": 123,
-                "count": 41
-            },
-            {
-                "id": 125,
-                "count": 27
-            },
-            {
-                "id": 126,
-                "count": 41
-            },
-            {
-                "id": 127,
-                "count": 3
-            }
+            { "id": 123, "count": 41 },
+            { "id": 125, "count": 27 },
+            { "id": 126, "count": 41 },
+            { "id": 127, "count": 3 }
         ],
         "status": "confirmed"
     },
@@ -259,18 +163,9 @@
         "type": "item",
         "tier": 3,
         "ingredients": [
-            {
-                "id": 128,
-                "count": 12
-            },
-            {
-                "id": 130,
-                "count": 24
-            },
-            {
-                "id": 131,
-                "count": 48
-            }
+            { "id": 128, "count": 12 },
+            { "id": 130, "count": 24 },
+            { "id": 131, "count": 48 }
         ],
         "status": "confirmed"
     },
@@ -280,18 +175,9 @@
         "type": "item",
         "tier": 3,
         "ingredients": [
-            {
-                "id": 128,
-                "count": 9
-            },
-            {
-                "id": 130,
-                "count": 18
-            },
-            {
-                "id": 131,
-                "count": 36
-            }
+            { "id": 128, "count": 9 },
+            { "id": 130, "count": 18 },
+            { "id": 131, "count": 36 }
         ],
         "status": "confirmed"
     },
@@ -301,18 +187,9 @@
         "type": "item",
         "tier": 3,
         "ingredients": [
-            {
-                "id": 128,
-                "count": 6
-            },
-            {
-                "id": 130,
-                "count": 12
-            },
-            {
-                "id": 131,
-                "count": 24
-            }
+            { "id": 128, "count": 6 },
+            { "id": 130, "count": 12 },
+            { "id": 131, "count": 24 }
         ],
         "status": "confirmed"
     },
@@ -322,22 +199,10 @@
         "type": "item",
         "tier": 3,
         "ingredients": [
-            {
-                "id": 125,
-                "count": 4
-            },
-            {
-                "id": 128,
-                "count": 6
-            },
-            {
-                "id": 130,
-                "count": 12
-            },
-            {
-                "id": 131,
-                "count": 20
-            }
+            { "id": 125, "count": 4 },
+            { "id": 128, "count": 6 },
+            { "id": 130, "count": 12 },
+            { "id": 131, "count": 20 }
         ],
         "status": "confirmed"
     },
@@ -347,26 +212,11 @@
         "type": "item",
         "tier": 3,
         "ingredients": [
-            {
-                "id": 102,
-                "count": 1000
-            },
-            {
-                "id": 123,
-                "count": 19
-            },
-            {
-                "id": 125,
-                "count": 14
-            },
-            {
-                "id": 126,
-                "count": 19
-            },
-            {
-                "id": 127,
-                "count": 2
-            }
+            { "id": 102, "count": 1000 },
+            { "id": 123, "count": 19 },
+            { "id": 125, "count": 14 },
+            { "id": 126, "count": 19 },
+            { "id": 127, "count": 2 }
         ],
         "status": "confirmed"
     },
@@ -376,18 +226,9 @@
         "type": "resource",
         "tier": 1,
         "ingredients": [
-            {
-                "id": 110,
-                "count": 5
-            },
-            {
-                "id": 122,
-                "count": 2
-            },
-            {
-                "id": 123,
-                "count": 3
-            }
+            { "id": 110, "count": 5 },
+            { "id": 122, "count": 2 },
+            { "id": 123, "count": 3 }
         ],
         "status": "confirmed"
     },
@@ -397,18 +238,9 @@
         "type": "resource",
         "tier": 3,
         "ingredients": [
-            {
-                "id": 112,
-                "count": 6
-            },
-            {
-                "id": 124,
-                "count": 3
-            },
-            {
-                "id": 132,
-                "count": 1
-            }
+            { "id": 112, "count": 6 },
+            { "id": 124, "count": 3 },
+            { "id": 132, "count": 1 }
         ],
         "status": "confirmed"
     },
@@ -418,18 +250,9 @@
         "type": "item",
         "tier": 3,
         "ingredients": [
-            {
-                "id": 124,
-                "count": 9
-            },
-            {
-                "id": 125,
-                "count": 24
-            },
-            {
-                "id": 133,
-                "count": 1
-            }
+            { "id": 124, "count": 9 },
+            { "id": 125, "count": 24 },
+            { "id": 133, "count": 1 }
         ],
         "status": "confirmed"
     },
@@ -439,18 +262,9 @@
         "type": "item",
         "tier": 3,
         "ingredients": [
-            {
-                "id": 125,
-                "count": 12
-            },
-            {
-                "id": 131,
-                "count": 18
-            },
-            {
-                "id": 133,
-                "count": 1
-            }
+            { "id": 125, "count": 12 },
+            { "id": 131, "count": 18 },
+            { "id": 133, "count": 1 }
         ],
         "status": "confirmed"
     },
@@ -460,18 +274,9 @@
         "type": "item",
         "tier": 3,
         "ingredients": [
-            {
-                "id": 123,
-                "count": 6
-            },
-            {
-                "id": 125,
-                "count": 24
-            },
-            {
-                "id": 132,
-                "count": 1
-            }
+            { "id": 123, "count": 6 },
+            { "id": 125, "count": 24 },
+            { "id": 132, "count": 1 }
         ],
         "status": "confirmed"
     },
@@ -481,22 +286,10 @@
         "type": "item",
         "tier": 3,
         "ingredients": [
-            {
-                "id": 123,
-                "count": 6
-            },
-            {
-                "id": 125,
-                "count": 20
-            },
-            {
-                "id": 131,
-                "count": 4
-            },
-            {
-                "id": 132,
-                "count": 1
-            }
+            { "id": 123, "count": 6 },
+            { "id": 125, "count": 20 },
+            { "id": 131, "count": 4 },
+            { "id": 132, "count": 1 }
         ],
         "status": "confirmed"
     },
@@ -506,22 +299,10 @@
         "type": "item",
         "tier": 3,
         "ingredients": [
-            {
-                "id": 123,
-                "count": 3
-            },
-            {
-                "id": 125,
-                "count": 12
-            },
-            {
-                "id": 126,
-                "count": 6
-            },
-            {
-                "id": 132,
-                "count": 1
-            }
+            { "id": 123, "count": 3 },
+            { "id": 125, "count": 12 },
+            { "id": 126, "count": 6 },
+            { "id": 132, "count": 1 }
         ],
         "status": "confirmed"
     },
@@ -531,18 +312,9 @@
         "type": "resource",
         "tier": 3,
         "ingredients": [
-            {
-                "id": 114,
-                "count": 9
-            },
-            {
-                "id": 124,
-                "count": 3
-            },
-            {
-                "id": 127,
-                "count": 1
-            }
+            { "id": 114, "count": 9 },
+            { "id": 124, "count": 3 },
+            { "id": 127, "count": 1 }
         ],
         "status": "confirmed"
     },
@@ -552,18 +324,9 @@
         "type": "resource",
         "tier": 3,
         "ingredients": [
-            {
-                "id": 112,
-                "count": 1
-            },
-            {
-                "id": 119,
-                "count": 1
-            },
-            {
-                "id": 124,
-                "count": 2
-            }
+            { "id": 112, "count": 1 },
+            { "id": 119, "count": 1 },
+            { "id": 124, "count": 2 }
         ],
         "status": "confirmed"
     },
@@ -573,34 +336,13 @@
         "type": "item",
         "tier": 4,
         "ingredients": [
-            {
-                "id": 117,
-                "count": 5
-            },
-            {
-                "id": 123,
-                "count": 51
-            },
-            {
-                "id": 126,
-                "count": 51
-            },
-            {
-                "id": 138,
-                "count": 5
-            },
-            {
-                "id": 143,
-                "count": 1
-            },
-            {
-                "id": 145,
-                "count": 2
-            },
-            {
-                "id": 146,
-                "count": 31
-            }
+            { "id": 117, "count": 5 },
+            { "id": 123, "count": 51 },
+            { "id": 126, "count": 51 },
+            { "id": 138, "count": 5 },
+            { "id": 143, "count": 1 },
+            { "id": 145, "count": 2 },
+            { "id": 146, "count": 31 }
         ],
         "status": "confirmed"
     },
@@ -610,38 +352,14 @@
         "type": "item",
         "tier": 4,
         "ingredients": [
-            {
-                "id": 102,
-                "count": 1200
-            },
-            {
-                "id": 117,
-                "count": 5
-            },
-            {
-                "id": 123,
-                "count": 23
-            },
-            {
-                "id": 126,
-                "count": 23
-            },
-            {
-                "id": 139,
-                "count": 5
-            },
-            {
-                "id": 144,
-                "count": 1
-            },
-            {
-                "id": 145,
-                "count": 1
-            },
-            {
-                "id": 146,
-                "count": 14
-            }
+            { "id": 102, "count": 1200 },
+            { "id": 117, "count": 5 },
+            { "id": 123, "count": 23 },
+            { "id": 126, "count": 23 },
+            { "id": 139, "count": 5 },
+            { "id": 144, "count": 1 },
+            { "id": 145, "count": 1 },
+            { "id": 146, "count": 14 }
         ],
         "status": "confirmed"
     },
@@ -651,30 +369,12 @@
         "type": "item",
         "tier": 1,
         "ingredients": [
-            {
-                "id": 102,
-                "count": 5
-            },
-            {
-                "id": 105,
-                "count": 5
-            },
-            {
-                "id": 108,
-                "count": 5
-            },
-            {
-                "id": 127,
-                "count": 1
-            },
-            {
-                "id": 167,
-                "count": 3
-            },
-            {
-                "id": 170,
-                "count": 1
-            }
+            { "id": 102, "count": 5 },
+            { "id": 105, "count": 5 },
+            { "id": 108, "count": 5 },
+            { "id": 127, "count": 1 },
+            { "id": 167, "count": 3 },
+            { "id": 170, "count": 1 }
         ],
         "status": "confirmed"
     },
@@ -684,34 +384,13 @@
         "type": "item",
         "tier": 2,
         "ingredients": [
-            {
-                "id": 102,
-                "count": 300
-            },
-            {
-                "id": 123,
-                "count": 21
-            },
-            {
-                "id": 125,
-                "count": 17
-            },
-            {
-                "id": 126,
-                "count": 21
-            },
-            {
-                "id": 127,
-                "count": 2
-            },
-            {
-                "id": 168,
-                "count": 5
-            },
-            {
-                "id": 171,
-                "count": 1
-            }
+            { "id": 102, "count": 300 },
+            { "id": 123, "count": 21 },
+            { "id": 125, "count": 17 },
+            { "id": 126, "count": 21 },
+            { "id": 127, "count": 2 },
+            { "id": 168, "count": 5 },
+            { "id": 171, "count": 1 }
         ],
         "status": "confirmed"
     },
@@ -721,42 +400,15 @@
         "type": "item",
         "tier": 4,
         "ingredients": [
-            {
-                "id": 102,
-                "count": 400
-            },
-            {
-                "id": 117,
-                "count": 5
-            },
-            {
-                "id": 118,
-                "count": 10
-            },
-            {
-                "id": 123,
-                "count": 26
-            },
-            {
-                "id": 126,
-                "count": 26
-            },
-            {
-                "id": 145,
-                "count": 1
-            },
-            {
-                "id": 146,
-                "count": 17
-            },
-            {
-                "id": 169,
-                "count": 5
-            },
-            {
-                "id": 172,
-                "count": 1
-            }
+            { "id": 102, "count": 400 },
+            { "id": 117, "count": 5 },
+            { "id": 118, "count": 10 },
+            { "id": 123, "count": 26 },
+            { "id": 126, "count": 26 },
+            { "id": 145, "count": 1 },
+            { "id": 146, "count": 17 },
+            { "id": 169, "count": 5 },
+            { "id": 172, "count": 1 }
         ],
         "status": "confirmed"
     },
@@ -766,34 +418,13 @@
         "type": "item",
         "tier": 3,
         "ingredients": [
-            {
-                "id": 117,
-                "count": 2
-            },
-            {
-                "id": 118,
-                "count": 5
-            },
-            {
-                "id": 123,
-                "count": 3
-            },
-            {
-                "id": 125,
-                "count": 12
-            },
-            {
-                "id": 126,
-                "count": 6
-            },
-            {
-                "id": 127,
-                "count": 1
-            },
-            {
-                "id": 165,
-                "count": 3
-            }
+            { "id": 117, "count": 2 },
+            { "id": 118, "count": 5 },
+            { "id": 123, "count": 3 },
+            { "id": 125, "count": 12 },
+            { "id": 126, "count": 6 },
+            { "id": 127, "count": 1 },
+            { "id": 165, "count": 3 }
         ],
         "status": "confirmed"
     },
@@ -803,38 +434,14 @@
         "type": "item",
         "tier": 4,
         "ingredients": [
-            {
-                "id": 117,
-                "count": 4
-            },
-            {
-                "id": 118,
-                "count": 7
-            },
-            {
-                "id": 123,
-                "count": 6
-            },
-            {
-                "id": 126,
-                "count": 9
-            },
-            {
-                "id": 145,
-                "count": 1
-            },
-            {
-                "id": 146,
-                "count": 15
-            },
-            {
-                "id": 166,
-                "count": 3
-            },
-            {
-                "id": 174,
-                "count": 1
-            }
+            { "id": 117, "count": 4 },
+            { "id": 118, "count": 7 },
+            { "id": 123, "count": 6 },
+            { "id": 126, "count": 9 },
+            { "id": 145, "count": 1 },
+            { "id": 146, "count": 15 },
+            { "id": 166, "count": 3 },
+            { "id": 174, "count": 1 }
         ],
         "status": "confirmed"
     },
@@ -844,34 +451,13 @@
         "type": "item",
         "tier": 4,
         "ingredients": [
-            {
-                "id": 115,
-                "count": 9
-            },
-            {
-                "id": 116,
-                "count": 15
-            },
-            {
-                "id": 124,
-                "count": 12
-            },
-            {
-                "id": 133,
-                "count": 2
-            },
-            {
-                "id": 140,
-                "count": 10
-            },
-            {
-                "id": 146,
-                "count": 27
-            },
-            {
-                "id": 152,
-                "count": 1
-            }
+            { "id": 115, "count": 9 },
+            { "id": 116, "count": 15 },
+            { "id": 124, "count": 12 },
+            { "id": 133, "count": 2 },
+            { "id": 140, "count": 10 },
+            { "id": 146, "count": 27 },
+            { "id": 152, "count": 1 }
         ],
         "status": "confirmed"
     },
@@ -881,34 +467,13 @@
         "type": "item",
         "tier": 4,
         "ingredients": [
-            {
-                "id": 115,
-                "count": 6
-            },
-            {
-                "id": 116,
-                "count": 9
-            },
-            {
-                "id": 131,
-                "count": 21
-            },
-            {
-                "id": 133,
-                "count": 1
-            },
-            {
-                "id": 146,
-                "count": 15
-            },
-            {
-                "id": 148,
-                "count": 12
-            },
-            {
-                "id": 153,
-                "count": 1
-            }
+            { "id": 115, "count": 6 },
+            { "id": 116, "count": 9 },
+            { "id": 131, "count": 21 },
+            { "id": 133, "count": 1 },
+            { "id": 146, "count": 15 },
+            { "id": 148, "count": 12 },
+            { "id": 153, "count": 1 }
         ],
         "status": "confirmed"
     },
@@ -918,34 +483,13 @@
         "type": "item",
         "tier": 4,
         "ingredients": [
-            {
-                "id": 115,
-                "count": 3
-            },
-            {
-                "id": 116,
-                "count": 6
-            },
-            {
-                "id": 123,
-                "count": 9
-            },
-            {
-                "id": 133,
-                "count": 1
-            },
-            {
-                "id": 146,
-                "count": 24
-            },
-            {
-                "id": 149,
-                "count": 12
-            },
-            {
-                "id": 154,
-                "count": 1
-            }
+            { "id": 115, "count": 3 },
+            { "id": 116, "count": 6 },
+            { "id": 123, "count": 9 },
+            { "id": 133, "count": 1 },
+            { "id": 146, "count": 24 },
+            { "id": 149, "count": 12 },
+            { "id": 154, "count": 1 }
         ],
         "status": "confirmed"
     },
@@ -955,38 +499,14 @@
         "type": "item",
         "tier": 4,
         "ingredients": [
-            {
-                "id": 115,
-                "count": 3
-            },
-            {
-                "id": 116,
-                "count": 6
-            },
-            {
-                "id": 123,
-                "count": 9
-            },
-            {
-                "id": 131,
-                "count": 6
-            },
-            {
-                "id": 133,
-                "count": 1
-            },
-            {
-                "id": 146,
-                "count": 22
-            },
-            {
-                "id": 150,
-                "count": 12
-            },
-            {
-                "id": 155,
-                "count": 1
-            }
+            { "id": 115, "count": 3 },
+            { "id": 116, "count": 6 },
+            { "id": 123, "count": 9 },
+            { "id": 131, "count": 6 },
+            { "id": 133, "count": 1 },
+            { "id": 146, "count": 22 },
+            { "id": 150, "count": 12 },
+            { "id": 155, "count": 1 }
         ],
         "status": "confirmed"
     },
@@ -996,38 +516,14 @@
         "type": "item",
         "tier": 4,
         "ingredients": [
-            {
-                "id": 115,
-                "count": 1
-            },
-            {
-                "id": 116,
-                "count": 3
-            },
-            {
-                "id": 123,
-                "count": 6
-            },
-            {
-                "id": 126,
-                "count": 9
-            },
-            {
-                "id": 132,
-                "count": 3
-            },
-            {
-                "id": 146,
-                "count": 17
-            },
-            {
-                "id": 151,
-                "count": 12
-            },
-            {
-                "id": 156,
-                "count": 1
-            }
+            { "id": 115, "count": 1 },
+            { "id": 116, "count": 3 },
+            { "id": 123, "count": 6 },
+            { "id": 126, "count": 9 },
+            { "id": 132, "count": 3 },
+            { "id": 146, "count": 17 },
+            { "id": 151, "count": 12 },
+            { "id": 156, "count": 1 }
         ],
         "status": "confirmed"
     },
@@ -1037,34 +533,13 @@
         "type": "item",
         "tier": 4,
         "ingredients": [
-            {
-                "id": 115,
-                "count": 9
-            },
-            {
-                "id": 116,
-                "count": 15
-            },
-            {
-                "id": 128,
-                "count": 15
-            },
-            {
-                "id": 130,
-                "count": 27
-            },
-            {
-                "id": 131,
-                "count": 52
-            },
-            {
-                "id": 157,
-                "count": 10
-            },
-            {
-                "id": 161,
-                "count": 1
-            }
+            { "id": 115, "count": 9 },
+            { "id": 116, "count": 15 },
+            { "id": 128, "count": 15 },
+            { "id": 130, "count": 27 },
+            { "id": 131, "count": 52 },
+            { "id": 157, "count": 10 },
+            { "id": 161, "count": 1 }
         ],
         "status": "confirmed"
     },
@@ -1074,34 +549,13 @@
         "type": "item",
         "tier": 4,
         "ingredients": [
-            {
-                "id": 115,
-                "count": 6
-            },
-            {
-                "id": 116,
-                "count": 9
-            },
-            {
-                "id": 128,
-                "count": 15
-            },
-            {
-                "id": 130,
-                "count": 24
-            },
-            {
-                "id": 131,
-                "count": 32
-            },
-            {
-                "id": 158,
-                "count": 12
-            },
-            {
-                "id": 162,
-                "count": 1
-            }
+            { "id": 115, "count": 6 },
+            { "id": 116, "count": 9 },
+            { "id": 128, "count": 15 },
+            { "id": 130, "count": 24 },
+            { "id": 131, "count": 32 },
+            { "id": 158, "count": 12 },
+            { "id": 162, "count": 1 }
         ],
         "status": "confirmed"
     },
@@ -1111,34 +565,13 @@
         "type": "item",
         "tier": 4,
         "ingredients": [
-            {
-                "id": 115,
-                "count": 3
-            },
-            {
-                "id": 116,
-                "count": 6
-            },
-            {
-                "id": 128,
-                "count": 9
-            },
-            {
-                "id": 130,
-                "count": 18
-            },
-            {
-                "id": 131,
-                "count": 28
-            },
-            {
-                "id": 159,
-                "count": 12
-            },
-            {
-                "id": 163,
-                "count": 1
-            }
+            { "id": 115, "count": 3 },
+            { "id": 116, "count": 6 },
+            { "id": 128, "count": 9 },
+            { "id": 130, "count": 18 },
+            { "id": 131, "count": 28 },
+            { "id": 159, "count": 12 },
+            { "id": 163, "count": 1 }
         ],
         "status": "confirmed"
     },
@@ -1148,38 +581,14 @@
         "type": "item",
         "tier": 4,
         "ingredients": [
-            {
-                "id": 115,
-                "count": 3
-            },
-            {
-                "id": 116,
-                "count": 6
-            },
-            {
-                "id": 128,
-                "count": 9
-            },
-            {
-                "id": 130,
-                "count": 18
-            },
-            {
-                "id": 131,
-                "count": 24
-            },
-            {
-                "id": 146,
-                "count": 4
-            },
-            {
-                "id": 160,
-                "count": 12
-            },
-            {
-                "id": 164,
-                "count": 1
-            }
+            { "id": 115, "count": 3 },
+            { "id": 116, "count": 6 },
+            { "id": 128, "count": 9 },
+            { "id": 130, "count": 18 },
+            { "id": 131, "count": 24 },
+            { "id": 146, "count": 4 },
+            { "id": 160, "count": 12 },
+            { "id": 164, "count": 1 }
         ],
         "status": "confirmed"
     },
@@ -1189,14 +598,19 @@
         "type": "resource",
         "tier": 1,
         "ingredients": [
-            {
-                "id": 109,
-                "count": 4
-            },
-            {
-                "id": 128,
-                "count": 2
-            }
+            { "id": 109, "count": 4 },
+            { "id": 128, "count": 2 }
+        ],
+        "status": "confirmed"
+    },
+    {
+        "recipeId": 146,
+        "name": "Поводок",
+        "type": "resource",
+        "tier": 1,
+        "ingredients": [
+            { "id": 101, "count": 50 },
+            { "id": 103, "count": 4 }
         ],
         "status": "confirmed"
     }
