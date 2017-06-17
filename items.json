@@ -388,7 +388,7 @@
         ],
         "type": "sword",
         "cost": 2400,
-        "weight": 0.1,
+        "weight": 180,
         "wrap": 2,
         "attributes": {
             "attack": 14,
@@ -420,6 +420,44 @@
             "class": "📦Добытчик"
         },
         "recipeId": 133
+    },
+    {
+        "id": 122,
+        "name": "Кузнечный молот",
+        "aliases": [
+            "Кузнечный молот"
+        ],
+        "type": "sword",
+        "cost": 3600,
+        "weight": 0.1,
+        "wrap": 1,
+        "attributes": {
+            "attack": 17,
+            "defense": 15,
+            "mana": 500
+        },
+        "restrictions": {
+        },
+        "recipeId": 151
+    },
+    {
+        "id": 123,
+        "name": "Клещи",
+        "aliases": [
+            "Клещи"
+        ],
+        "type": "dagger",
+        "cost": 0.1,
+        "weight": 0.1,
+        "wrap": 1,
+        "attributes": {
+            "attack": 9,
+            "defense": 5,
+            "mana": 150
+        },
+        "restrictions": {
+        },
+        "recipeId": 150
     },
     {
         "id": 200,
@@ -1184,6 +1222,42 @@
             "defense": 25
         },
         "recipeId": 140
+    },
+    {
+        "id": 241,
+        "name": "Рукавицы",
+        "aliases": [
+            "Рукавицы"
+        ],
+        "type": "gloves",
+        "cost": 0.1,
+        "weight": 0.1,
+        "wrap": 1,
+        "attributes": {
+            "defense": 6,
+            "mana": 100
+        },
+        "restrictions": {
+        },
+        "recipeId": 148
+    },
+    {
+        "id": 242,
+        "name": "Кузнечная роба",
+        "aliases": [
+            "Кузнечная роба"
+        ],
+        "type": "armor",
+        "cost": 0.1,
+        "weight": 0.1,
+        "wrap": 1,
+        "attributes": {
+            "defense": 12,
+            "mana": 300
+        },
+        "restrictions": {
+        },
+        "recipeId": 149
     },
     {
         "id": 300,

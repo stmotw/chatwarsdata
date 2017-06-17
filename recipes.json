@@ -613,5 +613,79 @@
             { "id": 103, "count": 4 }
         ],
         "status": "confirmed"
+    },
+    {
+        "recipeId": 147,
+        "name": "Полотно",
+        "type": "resource",
+        "tier": 2,
+        "ingredients": [
+            { "id": 109, "count": 3 },
+            { "id": 121, "count": 1 }
+        ],
+        "status": "confirmed"
+    },
+    {
+        "recipeId": 148,
+        "name": "Рукавицы",
+        "type": "item",
+        "tier": 3,
+        "ingredients": [
+            { "id": 123, "count": 6 },
+            { "id": 131, "count": 4 },
+            { "id": 132, "count": 1 },
+            { "id": 183, "count": 20 },
+            { "id": 184, "count": 8 },
+            { "id": 185, "count": 1 }
+        ],
+        "status": "confirmed"
+    },
+    {
+        "recipeId": 149,
+        "name": "Кузнечная роба",
+        "type": "item",
+        "tier": 3,
+        "ingredients": [
+            { "id": 128, "count": 12 },
+            { "id": 130, "count": 24 },
+            { "id": 183, "count": 48 },
+            { "id": 190, "count": 8 },
+            { "id": 191, "count": 1 }
+        ],
+        "status": "confirmed"
+    },
+    {
+        "recipeId": 150,
+        "name": "Клещи",
+        "type": "item",
+        "tier": 3,
+        "ingredients": [
+            { "id": 118, "count": 5 },
+            { "id": 119, "count": 12 },
+            { "id": 123, "count": 24 },
+            { "id": 126, "count": 6 },
+            { "id": 127, "count": 1 },
+            { "id": 188, "count": 1 },
+            { "id": 189, "count": 3 }
+        ],
+        "status": "confirmed"
+    },
+    {
+        "recipeId": 151,
+        "name": "Кузнечный молот",
+        "type": "item",
+        "tier": 4,
+        "ingredients": [
+            { "id": 114, "count": 96 },
+            { "id": 117, "count": 7 },
+            { "id": 118, "count": 10 },
+            { "id": 123, "count": 34 },
+            { "id": 126, "count": 12 },
+            { "id": 145, "count": 1 },
+            { "id": 146, "count": 6 },
+            { "id": 186, "count": 5 },
+            { "id": 187, "count": 1 }
+        ],
+        "status": "confirmed"
     }
 ]
