@@ -429,7 +429,7 @@
         ],
         "type": "sword",
         "cost": 3600,
-        "weight": 0.1,
+        "weight": 180,
         "wrap": 1,
         "attributes": {
             "attack": 17,
@@ -448,7 +448,7 @@
         ],
         "type": "dagger",
         "cost": 0.1,
-        "weight": 0.1,
+        "weight": 0,
         "wrap": 1,
         "attributes": {
             "attack": 9,
@@ -458,6 +458,57 @@
         "restrictions": {
         },
         "recipeId": 150
+    },
+    {
+        "unknownid": true,
+        "id": 124,
+        "name": "Нарсил",
+        "aliases": [
+            "Нарсил"
+        ],
+        "type": "sword",
+        "cost": 0.1,
+        "weight": 0.1,
+        "wrap": 0.1,
+        "attributes": {
+        },
+        "restrictions": {
+        },
+        "recipeId": 153
+    },
+    {
+        "unknownid": true,
+        "id": 125,
+        "name": "Алебарда",
+        "aliases": [
+            "Алебарда"
+        ],
+        "type": "spear",
+        "cost": 0.1,
+        "weight": 0.1,
+        "wrap": 0.1,
+        "attributes": {
+        },
+        "restrictions": {
+        },
+        "recipeId": 154
+    },
+    {
+        "unknownid": true,
+        "id": 126,
+        "name": "Кинжал триумфа",
+        "aliases": [
+            "Кинжал триумфа"
+        ],
+        "type": "dagger",
+        "cost": 0.1,
+        "weight": 0.1,
+        "wrap": 0.1,
+        "attributes": {
+        },
+        "restrictions": {
+        },
+        "recipeId": 160
     },
     {
         "id": 200,
@@ -1231,7 +1282,7 @@
         ],
         "type": "gloves",
         "cost": 0.1,
-        "weight": 0.1,
+        "weight": 150,
         "wrap": 1,
         "attributes": {
             "defense": 6,
@@ -1249,7 +1300,7 @@
         ],
         "type": "armor",
         "cost": 0.1,
-        "weight": 0.1,
+        "weight": 500,
         "wrap": 1,
         "attributes": {
             "defense": 12,
@@ -1258,6 +1309,159 @@
         "restrictions": {
         },
         "recipeId": 149
+    },
+    {
+        "unknownid": true,
+        "id": 243,
+        "name": "Куртка триумфа",
+        "aliases": [
+            "Куртка триумфа"
+        ],
+        "type": "dagger",
+        "cost": 0.1,
+        "weight": 0.1,
+        "wrap": 0.1,
+        "attributes": {
+        },
+        "restrictions": {
+        },
+        "recipeId": 156
+    },
+    {
+        "unknownid": true,
+        "id": 244,
+        "name": "Шапка триумфа",
+        "aliases": [
+            "Шапка триумфа"
+        ],
+        "type": "dagger",
+        "cost": 0.1,
+        "weight": 0.1,
+        "wrap": 0.1,
+        "attributes": {
+        },
+        "restrictions": {
+        },
+        "recipeId": 157
+    },
+    {
+        "unknownid": true,
+        "id": 245,
+        "name": "Ботинки триумфа",
+        "aliases": [
+            "Ботинки триумфа"
+        ],
+        "type": "dagger",
+        "cost": 0.1,
+        "weight": 0.1,
+        "wrap": 0.1,
+        "attributes": {
+        },
+        "restrictions": {
+        },
+        "recipeId": 158
+    },
+    {
+        "unknownid": true,
+        "id": 246,
+        "name": "Браслеты триумфа",
+        "aliases": [
+            "Браслеты триумфа"
+        ],
+        "type": "dagger",
+        "cost": 0.1,
+        "weight": 0.1,
+        "wrap": 0.1,
+        "attributes": {
+        },
+        "restrictions": {
+        },
+        "recipeId": 159
+    },
+    {
+        "unknownid": true,
+        "id": 247,
+        "name": "Броня крестоносца",
+        "aliases": [
+            "Броня крестоносца"
+        ],
+        "type": "dagger",
+        "cost": 0.1,
+        "weight": 0.1,
+        "wrap": 0.1,
+        "attributes": {
+        },
+        "restrictions": {
+        },
+        "recipeId": 161
+    },
+    {
+        "unknownid": true,
+        "id": 248,
+        "name": "Шлем крестоносца",
+        "aliases": [
+            "Шлем крестоносца"
+        ],
+        "type": "dagger",
+        "cost": 0.1,
+        "weight": 0.1,
+        "wrap": 0.1,
+        "attributes": {
+        },
+        "restrictions": {
+        },
+        "recipeId": 162
+    },
+    {
+        "unknownid": true,
+        "id": 249,
+        "name": "Сапоги крестоносца",
+        "aliases": [
+            "Сапоги крестоносца"
+        ],
+        "type": "dagger",
+        "cost": 0.1,
+        "weight": 0.1,
+        "wrap": 0.1,
+        "attributes": {
+        },
+        "restrictions": {
+        },
+        "recipeId": 163
+    },
+    {
+        "unknownid": true,
+        "id": 250,
+        "name": "Перчатки крестоносца",
+        "aliases": [
+            "Перчатки крестоносца"
+        ],
+        "type": "dagger",
+        "cost": 0.1,
+        "weight": 0.1,
+        "wrap": 0.1,
+        "attributes": {
+        },
+        "restrictions": {
+        },
+        "recipeId": 164
+    },
+    {
+        "unknownid": true,
+        "id": 251,
+        "name": "Щит крестоносца",
+        "aliases": [
+            "Щит крестоносца"
+        ],
+        "type": "dagger",
+        "cost": 0.1,
+        "weight": 0.1,
+        "wrap": 0.1,
+        "attributes": {
+        },
+        "restrictions": {
+        },
+        "recipeId": 165
     },
     {
         "id": 300,

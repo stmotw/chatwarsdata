@@ -687,5 +687,216 @@
             { "id": 187, "count": 1 }
         ],
         "status": "confirmed"
+    },
+    {
+        "recipeId": 152,
+        "name": "Литейная форма",
+        "type": "resource",
+        "tier": 4,
+        "ingredients": [
+            { "id": 117, "count": 5 },
+            { "id": 118, "count": 10 },
+            { "id": 145, "count": 2 }
+        ],
+        "status": "confirmed"
+    },
+    {
+        "unknownid": true,
+        "recipeId": 153,
+        "name": "Нарсил",
+        "type": "item",
+        "tier": 5,
+        "ingredients": [
+            { "id": 117, "count": 42 },
+            { "id": 123, "count": 141 },
+            { "id": 146, "count": 141 },
+            { "id": 192, "count": 9 },
+            { "id": 204, "count": 2 },
+            { "id": 205, "count": 1 }
+        ],
+        "status": "complete"
+    },
+    {
+        "unknownid": true,
+        "recipeId": 154,
+        "name": "Алебарда",
+        "type": "item",
+        "tier": 5,
+        "ingredients": [
+            { "id": 102, "count": 300 },
+            { "id": 117, "count": 24 },
+            { "id": 123, "count": 71 },
+            { "id": 146, "count": 181 },
+            { "id": 193, "count": 9 },
+            { "id": 204, "count": 3 },
+            { "id": 206, "count": 1 }
+        ],
+        "status": "complete"
+    },
+    {
+        "recipeId": 155,
+        "name": "Кузнечная форма",
+        "type": "resource",
+        "tier": 4,
+        "ingredients": [
+            { "id": 115, "count": 5 },
+            { "id": 116, "count": 10 },
+            { "id": 133, "count": 1 }
+        ],
+        "status": "confirmed"
+    },
+    {
+        "unknownid": true,
+        "recipeId": 156,
+        "name": "Куртка триумфа",
+        "type": "item",
+        "tier": 5,
+        "ingredients": [
+            { "id": 115, "count": 21 },
+            { "id": 128, "count": 30 },
+            { "id": 130, "count": 42 },
+            { "id": 131, "count": 76 },
+            { "id": 195, "count": 13 },
+            { "id": 208, "count": 3 },
+            { "id": 210, "count": 1 }
+        ],
+        "status": "complete"
+    },
+    {
+        "unknownid": true,
+        "recipeId": 157,
+        "name": "Шапка триумфа",
+        "type": "item",
+        "tier": 5,
+        "ingredients": [
+        ],
+        "status": "incomplete"
+    },
+    {
+        "unknownid": true,
+        "recipeId": 158,
+        "name": "Ботинки триумфа",
+        "type": "item",
+        "tier": 5,
+        "ingredients": [
+            { "id": 115, "count": 7 },
+            { "id": 128, "count": 13 },
+            { "id": 130, "count": 27 },
+            { "id": 131, "count": 42 },
+            { "id": 197, "count": 13 },
+            { "id": 208, "count": 1 },
+            { "id": 212, "count": 1 }
+        ],
+        "status": "complete"
+    },
+    {
+        "unknownid": true,
+        "recipeId": 159,
+        "name": "Браслеты триумфа",
+        "type": "item",
+        "tier": 5,
+        "ingredients": [
+            { "id": 115, "count": 7 },
+            { "id": 128, "count": 13 },
+            { "id": 130, "count": 27 },
+            { "id": 131, "count": 34 },
+            { "id": 146, "count": 8 },
+            { "id": 198, "count": 13 },
+            { "id": 208, "count": 1 },
+            { "id": 213, "count": 1 }
+        ],
+        "status": "complete"
+    },
+    {
+        "unknownid": true,
+        "recipeId": 160,
+        "name": "Кинжал триумфа",
+        "type": "item",
+        "tier": 5,
+        "ingredients": [
+            { "id": 117, "count": 24 },
+            { "id": 123, "count": 48 },
+            { "id": 146, "count": 48 },
+            { "id": 194, "count": 6 },
+            { "id": 204, "count": 1 },
+            { "id": 214, "count": 1 }
+        ],
+        "status": "complete"
+    },
+    {
+        "unknownid": true,
+        "recipeId": 161,
+        "name": "Броня крестоносца",
+        "type": "item",
+        "tier": 5,
+        "ingredients": [
+        ],
+        "status": "incomplete"
+    },
+    {
+        "unknownid": true,
+        "recipeId": 162,
+        "name": "Шлем крестоносца",
+        "type": "item",
+        "tier": 5,
+        "ingredients": [
+            { "id": 115, "count": 15 },
+            { "id": 131, "count": 42 },
+            { "id": 146, "count": 24 },
+            { "id": 200, "count": 13 },
+            { "id": 208, "count": 2 },
+            { "id": 216, "count": 1 }
+        ],
+        "status": "complete"
+    },
+    {
+        "unknownid": true,
+        "recipeId": 163,
+        "name": "Сапоги крестоносца",
+        "type": "item",
+        "tier": 5,
+        "ingredients": [
+            { "id": 115, "count": 7 },
+            { "id": 123, "count": 13 },
+            { "id": 146, "count": 38 },
+            { "id": 201, "count": 13 },
+            { "id": 208, "count": 1 },
+            { "id": 217, "count": 1 }
+        ],
+        "status": "complete"
+    },
+    {
+        "unknownid": true,
+        "recipeId": 164,
+        "name": "Перчатки крестоносца",
+        "type": "item",
+        "tier": 5,
+        "ingredients": [
+            { "id": 115, "count": 7 },
+            { "id": 123, "count": 13 },
+            { "id": 131, "count": 10 },
+            { "id": 146, "count": 28 },
+            { "id": 202, "count": 13 },
+            { "id": 208, "count": 1 },
+            { "id": 218, "count": 1 }
+        ],
+        "status": "complete"
+    },
+    {
+        "unknownid": true,
+        "recipeId": 165,
+        "name": "Щит крестоносца",
+        "type": "item",
+        "tier": 5,
+        "ingredients": [
+            { "id": 115, "count": 3 },
+            { "id": 123, "count": 11 },
+            { "id": 126, "count": 14 },
+            { "id": 133, "count": 3 },
+            { "id": 146, "count": 26 },
+            { "id": 203, "count": 13 },
+            { "id": 219, "count": 1 }
+        ],
+        "status": "complete"
     }
 ]
