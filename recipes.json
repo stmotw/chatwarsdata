@@ -8,6 +8,7 @@
             { "id": 107, "count": 3 },
             { "id": 108, "count": 3 }
         ],
+        "mana": 10,
         "status": "confirmed"
     },
     {
@@ -18,6 +19,7 @@
         "ingredients": [
             { "id": 103, "count": 3 }
         ],
+        "mana": 10,
         "status": "confirmed"
     },
     {
@@ -29,6 +31,7 @@
             { "id": 105, "count": 2 },
             { "id": 106, "count": 2 }
         ],
+        "mana": 10,
         "status": "confirmed"
     },
     {
@@ -39,6 +42,7 @@
         "ingredients": [
             { "id": 104, "count": 5 }
         ],
+        "mana": 10,
         "status": "confirmed"
     },
     {
@@ -49,6 +53,7 @@
         "ingredients": [
             { "id": 102, "count": 4 }
         ],
+        "mana": 10,
         "status": "confirmed"
     },
     {
@@ -61,6 +66,7 @@
             { "id": 113, "count": 1 },
             { "id": 121, "count": 2 }
         ],
+        "mana": 10,
         "status": "confirmed"
     },
     {
@@ -73,6 +79,7 @@
             { "id": 119, "count": 1 },
             { "id": 124, "count": 1 }
         ],
+        "mana": 15,
         "status": "confirmed"
     },
     {
@@ -85,6 +92,7 @@
             { "id": 107, "count": 6 },
             { "id": 108, "count": 6 }
         ],
+        "mana": 10,
         "status": "confirmed"
     },
     {
@@ -97,6 +105,7 @@
             { "id": 108, "count": 3 },
             { "id": 122, "count": 3 }
         ],
+        "mana": 10,
         "status": "confirmed"
     },
     {
@@ -108,6 +117,7 @@
             { "id": 101, "count": 3 },
             { "id": 122, "count": 3 }
         ],
+        "mana": 10,
         "status": "confirmed"
     },
     {
@@ -119,6 +129,7 @@
             { "id": 101, "count": 10 },
             { "id": 119, "count": 1 }
         ],
+        "mana": 10,
         "status": "confirmed"
     },
     {
@@ -130,6 +141,7 @@
             { "id": 110, "count": 6 },
             { "id": 129, "count": 9 }
         ],
+        "mana": 15,
         "status": "confirmed"
     },
     {
@@ -142,6 +154,7 @@
             { "id": 120, "count": 3 },
             { "id": 129, "count": 3 }
         ],
+        "mana": 15,
         "status": "confirmed"
     },
     {
@@ -155,6 +168,7 @@
             { "id": 126, "count": 41 },
             { "id": 127, "count": 3 }
         ],
+        "mana": 150,
         "status": "confirmed"
     },
     {
@@ -167,6 +181,7 @@
             { "id": 130, "count": 24 },
             { "id": 131, "count": 48 }
         ],
+        "mana": 150,
         "status": "confirmed"
     },
     {
@@ -179,6 +194,7 @@
             { "id": 130, "count": 18 },
             { "id": 131, "count": 36 }
         ],
+        "mana": 150,
         "status": "confirmed"
     },
     {
@@ -191,10 +207,11 @@
             { "id": 130, "count": 12 },
             { "id": 131, "count": 24 }
         ],
+        "mana": 150,
         "status": "confirmed"
     },
     {
-        "recipeId": 118,
+        "recipeI15d": 118,
         "name": "Браслеты охотника",
         "type": "item",
         "tier": 3,
@@ -204,6 +221,7 @@
             { "id": 130, "count": 12 },
             { "id": 131, "count": 20 }
         ],
+        "mana": 150,
         "status": "confirmed"
     },
     {
@@ -218,6 +236,7 @@
             { "id": 126, "count": 19 },
             { "id": 127, "count": 2 }
         ],
+        "mana": 150,
         "status": "confirmed"
     },
     {
@@ -230,6 +249,7 @@
             { "id": 122, "count": 2 },
             { "id": 123, "count": 3 }
         ],
+        "mana": 10,
         "status": "confirmed"
     },
     {
@@ -242,6 +262,7 @@
             { "id": 124, "count": 3 },
             { "id": 132, "count": 1 }
         ],
+        "mana": 30,
         "status": "confirmed"
     },
     {
@@ -254,6 +275,7 @@
             { "id": 125, "count": 24 },
             { "id": 133, "count": 1 }
         ],
+        "mana": 150,
         "status": "confirmed"
     },
     {
@@ -266,6 +288,7 @@
             { "id": 131, "count": 18 },
             { "id": 133, "count": 1 }
         ],
+        "mana": 150,
         "status": "confirmed"
     },
     {
@@ -278,6 +301,7 @@
             { "id": 125, "count": 24 },
             { "id": 132, "count": 1 }
         ],
+        "mana": 150,
         "status": "confirmed"
     },
     {
@@ -291,6 +315,7 @@
             { "id": 131, "count": 4 },
             { "id": 132, "count": 1 }
         ],
+        "mana": 150,
         "status": "confirmed"
     },
     {
@@ -304,6 +329,7 @@
             { "id": 126, "count": 6 },
             { "id": 132, "count": 1 }
         ],
+        "mana": 0.1,
         "status": "confirmed"
     },
     {
@@ -316,6 +342,7 @@
             { "id": 124, "count": 3 },
             { "id": 127, "count": 1 }
         ],
+        "mana": 30,
         "status": "confirmed"
     },
     {
@@ -328,6 +355,7 @@
             { "id": 119, "count": 1 },
             { "id": 124, "count": 2 }
         ],
+        "mana": 30,
         "status": "confirmed"
     },
     {
@@ -344,6 +372,7 @@
             { "id": 145, "count": 2 },
             { "id": 146, "count": 31 }
         ],
+        "mana": 200,
         "status": "confirmed"
     },
     {
@@ -361,6 +390,7 @@
             { "id": 145, "count": 1 },
             { "id": 146, "count": 14 }
         ],
+        "mana": 200,
         "status": "confirmed"
     },
     {
@@ -376,6 +406,7 @@
             { "id": 167, "count": 3 },
             { "id": 170, "count": 1 }
         ],
+        "mana": 80,
         "status": "confirmed"
     },
     {
@@ -392,6 +423,7 @@
             { "id": 168, "count": 5 },
             { "id": 171, "count": 1 }
         ],
+        "mana": 120,
         "status": "confirmed"
     },
     {
@@ -410,6 +442,7 @@
             { "id": 169, "count": 5 },
             { "id": 172, "count": 1 }
         ],
+        "mana": 200,
         "status": "confirmed"
     },
     {
@@ -426,6 +459,7 @@
             { "id": 127, "count": 1 },
             { "id": 165, "count": 3 }
         ],
+        "mana": 150,
         "status": "confirmed"
     },
     {
@@ -443,6 +477,7 @@
             { "id": 166, "count": 3 },
             { "id": 174, "count": 1 }
         ],
+        "mana": 200,
         "status": "confirmed"
     },
     {
@@ -459,6 +494,7 @@
             { "id": 146, "count": 27 },
             { "id": 152, "count": 1 }
         ],
+        "mana": 200,
         "status": "confirmed"
     },
     {
@@ -475,6 +511,7 @@
             { "id": 148, "count": 12 },
             { "id": 153, "count": 1 }
         ],
+        "mana": 200,
         "status": "confirmed"
     },
     {
@@ -491,6 +528,7 @@
             { "id": 149, "count": 12 },
             { "id": 154, "count": 1 }
         ],
+        "mana": 200,
         "status": "confirmed"
     },
     {
@@ -508,6 +546,7 @@
             { "id": 150, "count": 12 },
             { "id": 155, "count": 1 }
         ],
+        "mana": 200,
         "status": "confirmed"
     },
     {
@@ -525,6 +564,7 @@
             { "id": 151, "count": 12 },
             { "id": 156, "count": 1 }
         ],
+        "mana": 200,
         "status": "confirmed"
     },
     {
@@ -541,6 +581,7 @@
             { "id": 157, "count": 10 },
             { "id": 161, "count": 1 }
         ],
+        "mana": 200,
         "status": "confirmed"
     },
     {
@@ -557,6 +598,7 @@
             { "id": 158, "count": 12 },
             { "id": 162, "count": 1 }
         ],
+        "mana": 200,
         "status": "confirmed"
     },
     {
@@ -573,6 +615,7 @@
             { "id": 159, "count": 12 },
             { "id": 163, "count": 1 }
         ],
+        "mana": 200,
         "status": "confirmed"
     },
     {
@@ -590,6 +633,7 @@
             { "id": 160, "count": 12 },
             { "id": 164, "count": 1 }
         ],
+        "mana": 200,
         "status": "confirmed"
     },
     {
@@ -601,6 +645,7 @@
             { "id": 109, "count": 4 },
             { "id": 128, "count": 2 }
         ],
+        "mana": 10,
         "status": "confirmed"
     },
     {
@@ -612,6 +657,7 @@
             { "id": 101, "count": 50 },
             { "id": 103, "count": 4 }
         ],
+        "mana": 10,
         "status": "confirmed"
     },
     {
@@ -623,6 +669,7 @@
             { "id": 109, "count": 3 },
             { "id": 121, "count": 1 }
         ],
+        "mana": 15,
         "status": "confirmed"
     },
     {
@@ -638,6 +685,7 @@
             { "id": 184, "count": 8 },
             { "id": 185, "count": 1 }
         ],
+        "mana": 150,
         "status": "confirmed"
     },
     {
@@ -652,6 +700,7 @@
             { "id": 190, "count": 8 },
             { "id": 191, "count": 1 }
         ],
+        "mana": 150,
         "status": "confirmed"
     },
     {
@@ -668,6 +717,7 @@
             { "id": 188, "count": 1 },
             { "id": 189, "count": 3 }
         ],
+        "mana": 150,
         "status": "confirmed"
     },
     {
@@ -686,6 +736,7 @@
             { "id": 186, "count": 5 },
             { "id": 187, "count": 1 }
         ],
+        "mana": 200,
         "status": "confirmed"
     },
     {
@@ -698,6 +749,7 @@
             { "id": 118, "count": 10 },
             { "id": 145, "count": 2 }
         ],
+        "mana": 50,
         "status": "confirmed"
     },
     {
@@ -714,6 +766,7 @@
             { "id": 204, "count": 2 },
             { "id": 205, "count": 1 }
         ],
+        "mana": 0.1,
         "status": "complete"
     },
     {
@@ -731,6 +784,7 @@
             { "id": 204, "count": 3 },
             { "id": 206, "count": 1 }
         ],
+        "mana": 0.1,
         "status": "complete"
     },
     {
@@ -743,6 +797,7 @@
             { "id": 116, "count": 10 },
             { "id": 133, "count": 1 }
         ],
+        "mana": 50,
         "status": "confirmed"
     },
     {
@@ -760,6 +815,7 @@
             { "id": 208, "count": 3 },
             { "id": 210, "count": 1 }
         ],
+        "mana": 0.1,
         "status": "complete"
     },
     {
@@ -770,10 +826,10 @@
         "tier": 5,
         "ingredients": [
         ],
+        "mana": 0.1,
         "status": "incomplete"
     },
     {
-        "unknownid": true,
         "recipeId": 158,
         "name": "Ботинки триумфа",
         "type": "item",
@@ -787,7 +843,8 @@
             { "id": 208, "count": 1 },
             { "id": 212, "count": 1 }
         ],
-        "status": "complete"
+        "mana": 240,
+        "status": "confirmed"
     },
     {
         "unknownid": true,
@@ -805,6 +862,7 @@
             { "id": 208, "count": 1 },
             { "id": 213, "count": 1 }
         ],
+        "mana": 0.1,
         "status": "complete"
     },
     {
@@ -821,6 +879,7 @@
             { "id": 204, "count": 1 },
             { "id": 214, "count": 1 }
         ],
+        "mana": 0.1,
         "status": "complete"
     },
     {
@@ -831,6 +890,7 @@
         "tier": 5,
         "ingredients": [
         ],
+        "mana": 0.1,
         "status": "incomplete"
     },
     {
@@ -847,6 +907,7 @@
             { "id": 208, "count": 2 },
             { "id": 216, "count": 1 }
         ],
+        "mana": 0.1,
         "status": "complete"
     },
     {
@@ -863,6 +924,7 @@
             { "id": 208, "count": 1 },
             { "id": 217, "count": 1 }
         ],
+        "mana": 0.1,
         "status": "complete"
     },
     {
@@ -880,6 +942,7 @@
             { "id": 208, "count": 1 },
             { "id": 218, "count": 1 }
         ],
+        "mana": 0.1,
         "status": "complete"
     },
     {
@@ -897,6 +960,7 @@
             { "id": 203, "count": 13 },
             { "id": 219, "count": 1 }
         ],
+        "mana": 0.1,
         "status": "complete"
     }
 ]

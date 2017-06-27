@@ -1345,17 +1345,18 @@
         "recipeId": 157
     },
     {
-        "unknownid": true,
         "id": 245,
         "name": "Ботинки триумфа",
         "aliases": [
             "Ботинки триумфа"
         ],
-        "type": "dagger",
-        "cost": 0.1,
-        "weight": 0.1,
-        "wrap": 0.1,
+        "type": "boots",
+        "cost": 1109,
+        "weight": 100,
+        "wrap": 1,
         "attributes": {
+            "attack": 7,
+            "defense": 7
         },
         "restrictions": {
         },
