@@ -392,7 +392,10 @@
             "Сено"
         ],
         "cost": 1,
-        "weight": 1
+        "weight": 1,
+        "commands": {
+            "buy": "/buy_food1"
+        }
     },
     {
         "id": 136,
@@ -401,7 +404,10 @@
             "Комбикорм"
         ],
         "cost": 1,
-        "weight": 1
+        "weight": 1,
+        "commands": {
+            "buy": "/buy_food2"
+        }
     },
     {
         "id": 137,
@@ -410,7 +416,10 @@
             "Зерно"
         ],
         "cost": 1,
-        "weight": 1
+        "weight": 1,
+        "commands": {
+            "buy": "/buy_food3"
+        }
     },
     {
         "id": 138,
@@ -797,7 +806,10 @@
         "aliases": [
             "Мясо монстров"
         ],
-        "weight": 1
+        "weight": 1,
+        "commands": {
+            "buy": "/buy_food4"
+        }
     },
     {
         "id": 179,
@@ -805,7 +817,10 @@
         "aliases": [
             "Хомячки"
         ],
-        "weight": 1
+        "weight": 1,
+        "commands": {
+            "buy": "/buy_food5"
+        }
     },
     {
         "id": 180,
