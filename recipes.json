@@ -211,7 +211,7 @@
         "status": "confirmed"
     },
     {
-        "recipeI15d": 118,
+        "recipeId": 118,
         "name": "Браслеты охотника",
         "type": "item",
         "tier": 3,
@@ -753,7 +753,6 @@
         "status": "confirmed"
     },
     {
-        "unknownid": true,
         "recipeId": 153,
         "name": "Нарсил",
         "type": "item",
@@ -766,11 +765,10 @@
             { "id": 204, "count": 2 },
             { "id": 205, "count": 1 }
         ],
-        "mana": 0.1,
-        "status": "complete"
+        "mana": 250,
+        "status": "confirmed"
     },
     {
-        "unknownid": true,
         "recipeId": 154,
         "name": "Алебарда",
         "type": "item",
@@ -784,8 +782,8 @@
             { "id": 204, "count": 3 },
             { "id": 206, "count": 1 }
         ],
-        "mana": 0.1,
-        "status": "complete"
+        "mana": 250,
+        "status": "confirmed"
     },
     {
         "recipeId": 155,
@@ -801,7 +799,6 @@
         "status": "confirmed"
     },
     {
-        "unknownid": true,
         "recipeId": 156,
         "name": "Куртка триумфа",
         "type": "item",
@@ -815,19 +812,25 @@
             { "id": 208, "count": 3 },
             { "id": 210, "count": 1 }
         ],
-        "mana": 0.1,
-        "status": "complete"
+        "mana": 240,
+        "status": "confirmed"
     },
     {
-        "unknownid": true,
         "recipeId": 157,
         "name": "Шапка триумфа",
         "type": "item",
         "tier": 5,
         "ingredients": [
+            { "id": 115, "count": 15 },
+            { "id": 128, "count": 24 },
+            { "id": 130, "count": 36 },
+            { "id": 131, "count": 48 },
+            { "id": 196, "count": 13 },
+            { "id": 208, "count": 2 },
+            { "id": 211, "count": 1 }
         ],
-        "mana": 0.1,
-        "status": "incomplete"
+        "mana": 240,
+        "status": "confirmed"
     },
     {
         "recipeId": 158,
@@ -847,7 +850,6 @@
         "status": "confirmed"
     },
     {
-        "unknownid": true,
         "recipeId": 159,
         "name": "Браслеты триумфа",
         "type": "item",
@@ -862,11 +864,10 @@
             { "id": 208, "count": 1 },
             { "id": 213, "count": 1 }
         ],
-        "mana": 0.1,
-        "status": "complete"
+        "mana": 240,
+        "status": "confirmed"
     },
     {
-        "unknownid": true,
         "recipeId": 160,
         "name": "Кинжал триумфа",
         "type": "item",
@@ -879,22 +880,26 @@
             { "id": 204, "count": 1 },
             { "id": 214, "count": 1 }
         ],
-        "mana": 0.1,
-        "status": "complete"
+        "mana": 240,
+        "status": "confirmed"
     },
     {
-        "unknownid": true,
         "recipeId": 161,
         "name": "Броня крестоносца",
         "type": "item",
         "tier": 5,
         "ingredients": [
+            { "id": 115, "count": 21 },
+            { "id": 124, "count": 19 },
+            { "id": 146, "count": 42 },
+            { "id": 199, "count": 13 },
+            { "id": 208, "count": 3 },
+            { "id": 215, "count": 1 }
         ],
-        "mana": 0.1,
-        "status": "incomplete"
+        "mana": 240,
+        "status": "confirmed"
     },
     {
-        "unknownid": true,
         "recipeId": 162,
         "name": "Шлем крестоносца",
         "type": "item",
@@ -907,11 +912,10 @@
             { "id": 208, "count": 2 },
             { "id": 216, "count": 1 }
         ],
-        "mana": 0.1,
-        "status": "complete"
+        "mana": 240,
+        "status": "confirmed"
     },
     {
-        "unknownid": true,
         "recipeId": 163,
         "name": "Сапоги крестоносца",
         "type": "item",
@@ -924,11 +928,10 @@
             { "id": 208, "count": 1 },
             { "id": 217, "count": 1 }
         ],
-        "mana": 0.1,
-        "status": "complete"
+        "mana": 240,
+        "status": "confirmed"
     },
     {
-        "unknownid": true,
         "recipeId": 164,
         "name": "Перчатки крестоносца",
         "type": "item",
@@ -942,11 +945,10 @@
             { "id": 208, "count": 1 },
             { "id": 218, "count": 1 }
         ],
-        "mana": 0.1,
-        "status": "complete"
+        "mana": 240,
+        "status": "confirmed"
     },
     {
-        "unknownid": true,
         "recipeId": 165,
         "name": "Щит крестоносца",
         "type": "item",
@@ -960,7 +962,7 @@
             { "id": 203, "count": 13 },
             { "id": 219, "count": 1 }
         ],
-        "mana": 0.1,
-        "status": "complete"
+        "mana": 240,
+        "status": "confirmed"
     }
 ]
