@@ -4,6 +4,14 @@
 
 Если вы нашли ошибку в предоставленных данных, пожалуйста, [свяжитесь](https://t.me/motw_we) со мной.
 
+```
+$ npm install chatwarsdata --save
+```
+
+```javascript
+$ import { items, resources, recipes } from 'chatwarsdata';
+```
+
 # resources.json
 ```json
 {
