@@ -9,7 +9,7 @@ $ npm install chatwarsdata --save
 ```
 
 ```javascript
-$ import { items, resources, recipes } from 'chatwarsdata';
+import { items, resources, recipes } from 'chatwarsdata';
 ```
 
 # resources.json
