@@ -4,12 +4,20 @@
 
 Если вы нашли ошибку в предоставленных данных, пожалуйста, [свяжитесь](https://t.me/motw_we) со мной.
 
+# Установка
 ```
 $ npm install chatwarsdata --save
 ```
 
+# Использование
+## ES6
 ```javascript
 import { items, resources, recipes } from 'chatwarsdata';
+```
+
+## ES5
+```javascript
+const { items, resources, recipes } = require('chatwarsdata');
 ```
 
 # resources.json
