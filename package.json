@@ -1,0 +1,22 @@
+{
+  "name": "chatwarsdata",
+  "version": "1.0.0",
+  "description": "Здесь собрана часть информации об игре Chat Wars",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stmotw/chatwarsdata.git"
+  },
+  "keywords": [
+    "chatwars",
+    "chat",
+    "wars",
+    "telegram"
+  ],
+  "author": "Timofey Urbanovich <motw@yandex.ru>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stmotw/chatwarsdata/issues"
+  },
+  "homepage": "https://github.com/stmotw/chatwarsdata#readme"
+}
