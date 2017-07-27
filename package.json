@@ -1,6 +1,6 @@
 {
   "name": "chatwarsdata",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Здесь собрана часть информации об игре Chat Wars",
   "main": "index.js",
   "repository": {

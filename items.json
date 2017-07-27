@@ -479,6 +479,7 @@
             "attack": 40
         },
         "restrictions": {
+            "attack": 30
         },
         "recipeId": 153
     },
@@ -497,6 +498,7 @@
             "defense": 29
         },
         "restrictions": {
+            "defense": 30
         },
         "recipeId": 154
     },
@@ -514,6 +516,7 @@
             "attack": 15
         },
         "restrictions": {
+            "attack": 35
         },
         "recipeId": 160
     },
@@ -1334,6 +1337,7 @@
             "defense": 11
         },
         "restrictions": {
+            "attack": 35
         },
         "recipeId": 156
     },
@@ -1352,6 +1356,7 @@
             "defense": 6
         },
         "restrictions": {
+            "attack": 35
         },
         "recipeId": 157
     },
@@ -1370,6 +1375,7 @@
             "defense": 7
         },
         "restrictions": {
+            "attack": 35
         },
         "recipeId": 158
     },
@@ -1388,6 +1394,7 @@
             "defense": 7
         },
         "restrictions": {
+            "attack": 35
         },
         "recipeId": 159
     },
@@ -1406,6 +1413,7 @@
             "defense": 22
         },
         "restrictions": {
+            "defense": 35
         },
         "recipeId": 161
     },
@@ -1424,6 +1432,7 @@
             "defense": 13
         },
         "restrictions": {
+            "defense": 35
         },
         "recipeId": 162
     },
@@ -1442,6 +1451,7 @@
             "defense": 14
         },
         "restrictions": {
+            "defense": 35
         },
         "recipeId": 163
     },
@@ -1460,6 +1470,7 @@
             "defense": 14
         },
         "restrictions": {
+            "defense": 35
         },
         "recipeId": 164
     },
@@ -1478,6 +1489,7 @@
             "defense": 17
         },
         "restrictions": {
+            "defense": 35
         },
         "recipeId": 165
     },
@@ -1721,9 +1733,9 @@
             "Счастливая кость"
         ],
         "type": "special",
-        "cost": 0.1,
-        "weight": 0.1,
-        "wrap": 0.1,
+        "cost": 4,
+        "weight": 10,
+        "wrap": 1,
         "attributes": {
             "luck": 1
         }
