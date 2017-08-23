@@ -479,6 +479,7 @@
             "attack": 40
         },
         "restrictions": {
+            "level": 40,
             "attack": 30
         },
         "recipeId": 153
@@ -498,6 +499,7 @@
             "defense": 29
         },
         "restrictions": {
+            "level": 40,
             "defense": 30
         },
         "recipeId": 154
