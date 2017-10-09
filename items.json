@@ -1180,7 +1180,7 @@
         ],
         "type": "helmet",
         "cost": 710,
-        "weight": 0.1,
+        "weight": 180,
         "wrap": 3,
         "attributes": {
             "attack": 6,
