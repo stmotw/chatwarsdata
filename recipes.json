@@ -964,5 +964,18 @@
         ],
         "mana": 240,
         "status": "confirmed"
+    },
+    {
+        "recipeId": 166,
+        "name": "Воздушный шар",
+        "type": "resource",
+        "tier": 1,
+        "ingredients": [
+            { "id": 109, "count": 6 },
+            { "id": 120, "count": 6 },
+            { "id": 128, "count": 6 }
+        ],
+        "mana": 10,
+        "status": "confirmed"
     }
 ]
