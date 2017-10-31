@@ -977,5 +977,17 @@
         ],
         "mana": 10,
         "status": "confirmed"
+    },
+    {
+        "recipeId": 167,
+        "name": "Факел",
+        "type": "item",
+        "tier": 1,
+        "ingredients": [
+            { "id": 102, "count": 5 },
+            { "id": 105, "count": 2 }
+        ],
+        "mana": 0.1,
+        "status": "confirmed"
     }
 ]

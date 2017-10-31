@@ -523,6 +523,21 @@
         "recipeId": 160
     },
     {
+        "id": 127,
+        "name": "Факел",
+        "aliases": [
+            "Факел"
+        ],
+        "type": "special",
+        "cost": 4,
+        "weight": 1,
+        "wrap": 1,
+        "attributes": {
+            "defense": 1
+        },
+        "recipeId": 167
+    },
+    {
         "id": 200,
         "name": "Плотная куртка",
         "aliases": [
