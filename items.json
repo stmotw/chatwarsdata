@@ -538,6 +538,59 @@
         "recipeId": 167
     },
     {
+        "id": 128,
+        "name": "Свет Луны",
+        "aliases": [
+            "Свет Луны"
+        ],
+        "type": "sword",
+        "cost": 30800,
+        "weight": 140,
+        "wrap": 5,
+        "attributes": {
+            "attack": 52
+        },
+        "restrictions": {
+        },
+        "recipeId": 169
+    },
+    {
+        "id": 129,
+        "name": "Черная Пика",
+        "aliases": [
+            "Черная Пика",
+            "Чёрная Пика"
+        ],
+        "type": "spear",
+        "cost": 26400,
+        "weight": 180,
+        "wrap": 0.1,
+        "attributes": {
+            "attack": 34,
+            "defense": 36
+        },
+        "restrictions": {
+        },
+        "recipeId": 168
+    },
+    {
+        "id": 130,
+        "name": "Кинжал Ночного Ордена",
+        "aliases": [
+            "Кинжал Ночного Ордена"
+        ],
+        "type": "dagger",
+        "cost": 2640,
+        "weight": 0.1,
+        "wrap": 5,
+        "attributes": {
+            "attack": 19
+        },
+        "restrictions": {
+        },
+        "recipeId": 170
+    },
+    {
         "id": 200,
         "name": "Плотная куртка",
         "aliases": [
@@ -1509,6 +1562,168 @@
             "defense": 35
         },
         "recipeId": 165
+    },
+    {
+        "id": 252,
+        "name": "Куртка Ночного Ордена",
+        "aliases": [
+            "Куртка Ночного Ордена"
+        ],
+        "type": "armor",
+        "cost": 0.1,
+        "weight": 0.1,
+        "wrap": 0.1,
+        "attributes": {
+            "attack": 12,
+            "defense": 14
+        },
+        "restrictions": {
+        },
+        "recipeId": 171
+    },
+    {
+        "id": 253,
+        "name": "Шапка Ночного Ордена",
+        "aliases": [
+            "Шапка Ночного Ордена"
+        ],
+        "type": "helmet",
+        "cost": 2219,
+        "weight": 0.1,
+        "wrap": 5,
+        "attributes": {
+            "attack": 12,
+            "defense": 8
+        },
+        "restrictions": {
+        },
+        "recipeId": 172
+    },
+    {
+        "id": 254,
+        "name": "Ботинки Ночного Ордена",
+        "aliases": [
+            "Ботинки Ночного Ордена"
+        ],
+        "type": "boots",
+        "cost": 2435,
+        "weight": 100,
+        "wrap": 4,
+        "attributes": {
+            "attack": 10,
+            "defense": 10
+        },
+        "restrictions": {
+        },
+        "recipeId": 173
+    },
+    {
+        "id": 255,
+        "name": "Браслеты Ночного Ордена",
+        "aliases": [
+            "Браслеты Ночного Ордена"
+        ],
+        "type": "gloves",
+        "cost": 2435,
+        "weight": 100,
+        "wrap": 0.1,
+        "attributes": {
+            "attack": 10,
+            "defense": 10
+        },
+        "restrictions": {
+        },
+        "recipeId": 174
+    },
+    {
+        "id": 256,
+        "name": "Броня отчаяния",
+        "aliases": [
+            "Броня отчаяния"
+        ],
+        "type": "armor",
+        "cost": 4370,
+        "weight": 500,
+        "wrap": 0.1,
+        "attributes": {
+            "attack": 12,
+            "defense": 30
+        },
+        "restrictions": {
+        },
+        "recipeId": 175
+    },
+    {
+        "id": 257,
+        "name": "Шлем отчаяния",
+        "aliases": [
+            "Шлем отчаяния"
+        ],
+        "type": "helmet",
+        "cost": 0.1,
+        "weight": 0.1,
+        "wrap": 0.1,
+        "attributes": {
+            "attack": 0.1,
+            "defense": 0.1
+        },
+        "restrictions": {
+        },
+        "recipeId": 176
+    },
+    {
+        "id": 258,
+        "name": "Сапоги отчаяния",
+        "aliases": [
+            "Сапоги отчаяния"
+        ],
+        "type": "boots",
+        "cost": 0.1,
+        "weight": 0.1,
+        "wrap": 0.1,
+        "attributes": {
+            "attack": 0.1,
+            "defense": 0.1
+        },
+        "restrictions": {
+        },
+        "recipeId": 177
+    },
+    {
+        "id": 259,
+        "name": "Перчатки отчаяния",
+        "aliases": [
+            "Перчатки отчаяния"
+        ],
+        "type": "gloves",
+        "cost": 2439,
+        "weight": 0.1,
+        "wrap": 0.1,
+        "attributes": {
+            "attack": 12,
+            "defense": 19
+        },
+        "restrictions": {
+        },
+        "recipeId": 178
+    },
+    {
+        "id": 260,
+        "name": "Щит отчаяния",
+        "aliases": [
+            "Щит отчаяния"
+        ],
+        "type": "shield",
+        "cost": 0.1,
+        "weight": 0.1,
+        "wrap": 0.1,
+        "attributes": {
+            "attack": 12,
+            "defense": 22
+        },
+        "restrictions": {
+        },
+        "recipeId": 179
     },
     {
         "id": 300,
